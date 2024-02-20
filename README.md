@@ -1,1 +1,2 @@
-<h2>In progress......</h2
+<h2>Timer-Game</h2
+Timer-Game with React.js
